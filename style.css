@@ -1,0 +1,15 @@
+
+body{
+    text-align: center;
+    background-color:purple;
+    font-family:'Times New Roman', Times, serif;
+}
+input,
+button{
+    font-size: 2em;
+    padding:2em;
+    margin:2em;
+    border:10px;
+    border-radius: 10px;
+    border-color:2px solid black;
+}
